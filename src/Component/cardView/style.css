@@ -1,0 +1,93 @@
+.cardimage{
+    width: 300px;
+    height: 150px;
+    border-bottom-right-radius: 18px;
+    border-bottom-left-radius: 18px;
+}
+
+.location p{
+    margin-top: 10px;
+    font-size: 18px;
+    margin-left: 5px;
+}
+
+.bgCard{
+    background-color: #e2e2e2;
+    height: 91vh;
+}
+
+.fa-user{
+    font-size: 20px;
+}
+
+.fa-map-marker{
+    font-size: 30px;
+}
+
+.title{
+    margin-top: -30px !important;
+}
+
+.card002{
+    margin-top: -10px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid black;
+}
+
+.card003{
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+}
+
+.note{
+    width: 260px;
+    max-width: 260px;
+}
+
+.note p{
+    font-size: 12px;
+    text-align: justify;
+}
+
+.logouser{
+    background-color: brown;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+
+.imgaesi{
+    border: 1px solid transparent;
+}
+
+.card001{
+    width:305px;
+    height: auto;
+    background-color: #e9edf1 !important;
+    border: 1px solid  black;
+    margin-right: 50px;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+}
+
+.card000{
+    overflow-x: scroll;
+}
+
+.error{
+    background-color: white;
+    width: auto;
+    padding:5px;
+    height: 33px;
+    border-radius: 18px;
+}
+
+.errortext{
+    font-size: 12px;
+    color: #DC3545;
+    text-shadow: 1px 0.2px white;
+}
+
+.error p{
+    color: white !important;
+}

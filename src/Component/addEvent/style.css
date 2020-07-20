@@ -1,0 +1,81 @@
+.whole{
+    height:91vh;
+    padding: 30px;
+    background-color: #e2e2e2;
+    overflow-x: none;
+}
+
+#Done{
+    width: 250px;
+    height: 250px;
+}
+
+.bgcard{
+    padding: 20px;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: #76a4ab;
+}
+
+.some{
+    height: 400px;
+    background-color: #FFF;
+    width: 900px;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.some .btn{
+    width: 100px;
+}
+.some .btn-danger{
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.some .btn-primary{
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
+.some .btn-dark{
+    background-color: darkolivegreen;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border: none;
+    
+}
+
+.numberformat{
+    width: 195px;
+    height: 40px;
+    border: none;
+    border-radius: 4px;
+    padding-left: 15px;
+}
+
+.numberformat:focus{
+outline: none;
+border: none;
+border-radius: 4px;
+}
+
+
+.e00bg1{
+    background-image: url('../../assets/img/3991807.jpg');
+    background-size: cover;
+    background-position: center;
+
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
